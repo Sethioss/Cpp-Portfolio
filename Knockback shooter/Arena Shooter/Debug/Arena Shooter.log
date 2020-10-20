@@ -1,32 +1,249 @@
-﻿  Display.cpp
-D:\ArenaShooterv2\Arena Shooter\bullet.h(33,113): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
-D:\ArenaShooterv2\Arena Shooter\Weapons.h(8,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
-D:\ArenaShooterv2\Arena Shooter\bullet.h(10): message : voir la déclaration de 'Bullet'
-D:\ArenaShooterv2\Arena Shooter\Weapons.h(16,1): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
-D:\ArenaShooterv2\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
-D:\ArenaShooterv2\Arena Shooter\player.h(9,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
-D:\ArenaShooterv2\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
-D:\ArenaShooterv2\Arena Shooter\arena.h(10,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
-D:\ArenaShooterv2\Arena Shooter\Weapons.h(8): message : voir la déclaration de 'Bullet'
-D:\ArenaShooterv2\Arena Shooter\arena.h(12,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
-D:\ArenaShooterv2\Arena Shooter\player.h(9): message : voir la déclaration de 'Weapon'
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(44,47): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+﻿  Arena Shooter.cpp
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(33,113): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(10): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(16,1): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(10,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\player.h(9,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena Shooter.cpp(84,113): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena Shooter.cpp(84,71): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+  Arena.cpp
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(33,113): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(10): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(16,1): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\player.h(9,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(10,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\player.h(9): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(27,50): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
           with
           [
               T=float
           ]
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(76,21): warning C4018: '<' : incompatibilité signed/unsigned
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(88,21): warning C4018: '<' : incompatibilité signed/unsigned
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(131,21): warning C4018: '<' : incompatibilité signed/unsigned
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(151,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(157,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(184,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(185,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(186,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(213,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(213,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(236,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(236,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(265,17): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
-D:\ArenaShooterv2\Arena Shooter\Display.cpp(270,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-  Arena Shooter.vcxproj -> D:\ArenaShooterv2\Debug\Arena Shooter.exe
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(27,44): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(30,50): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(30,44): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(31,56): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(34,56): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(34,45): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(37,57): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(37,46): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(38,55): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(63,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(86,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(88,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(104,65): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(104,58): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(105,64): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(105,58): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(197,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(214,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(250,17): warning C4244: 'initialisation' : conversion de 'const T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(251,17): warning C4244: 'initialisation' : conversion de 'const T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(255,82): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(255,76): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(256,92): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(256,86): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(257,88): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(257,63): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(258,98): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Arena.cpp(258,73): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Bullet.cpp
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\player.h(9,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(7,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\player.h(9): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(11,1): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(10): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(33,113): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Bullet.cpp(20,28): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Bullet.cpp(73,27): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Bullet.cpp(83,23): warning C4018: '<' : incompatibilité signed/unsigned
+  Display.cpp
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(33,113): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(10): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(16,1): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\player.h(9,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(10,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\player.h(9): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(44,47): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(76,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(88,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(131,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(151,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(157,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(184,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(185,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(186,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(213,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(213,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(236,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(236,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(265,17): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Display.cpp(270,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Enemy.cpp
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(33,113): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(10): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(16,1): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(10,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\player.h(9,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Enemy.cpp(14,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Enemy.cpp(32,77): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Enemy.cpp(32,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Enemy.cpp(207,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Enemy.cpp(265,20): warning C4018: '<' : incompatibilité signed/unsigned
+  Game.cpp
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(33,113): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(10): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(16,1): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(10,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\player.h(9,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Game.cpp(28,13): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Game.cpp(90,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Game.cpp(95,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Game.cpp(100,20): warning C4018: '<' : incompatibilité signed/unsigned
+  Player.cpp
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(33,113): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(10): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(16,1): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(10,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\player.h(9,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Player.cpp(10,28): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Player.cpp(63,52): warning C4244: '-=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Player.cpp(68,42): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Utility.cpp
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(33,113): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(10): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(16,1): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(10,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\player.h(9,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\arena.h(12): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Utility.cpp(73,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Weapons.cpp
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(11,1): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(10): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(33,113): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(8,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\bullet.h(10): message : voir la déclaration de 'Bullet'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(16,1): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.cpp(13,65): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.cpp(32,131): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.cpp(40,133): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.cpp(63,145): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.cpp(98,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.cpp(98,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours...
+C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Arena Shooter\Weapons.cpp(68): warning C4715: 'InstantiateWeapon' : les chemins de contrôle ne retournent pas tous une valeur
+  Arena Shooter.vcxproj -> C:\Users\Sebastien\Desktop\C++ Portfolio\Knockback shooter\Debug\Arena Shooter.exe

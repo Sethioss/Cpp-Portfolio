@@ -62,7 +62,7 @@ int Random(int toRandom)
 {
 	int sortedNumber = rand() % (toRandom + 1);
 
-	cout << "the sorted is : " << sortedNumber << endl;
+	//cout << "the sorted is : " << sortedNumber << endl;
 
 	return sortedNumber;
 }
