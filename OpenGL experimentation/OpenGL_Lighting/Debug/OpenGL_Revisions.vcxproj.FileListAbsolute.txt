@@ -1,0 +1,8 @@
+C:\Users\Sebastien\Desktop\OpenGL_Revisions\Debug\OpenGL_Revisions.exe
+C:\Users\Sebastien\Desktop\OpenGL_Revisions\Debug\OpenGL_Revisions.pdb
+C:\Users\Sebastien\Desktop\Learn OpenGL\OpenGL_Getting_Started\Debug\OpenGL_Revisions.exe
+C:\Users\Sebastien\Desktop\Learn OpenGL\OpenGL_Getting_Started\Debug\OpenGL_Revisions.pdb
+C:\Users\Sebastien\Desktop\Learn OpenGL\OpenGL_Lighting\Debug\OpenGL_Revisions.exe
+C:\Users\Sebastien\Desktop\Learn OpenGL\OpenGL_Lighting\Debug\OpenGL_Revisions.pdb
+C:\Users\Sebastien\Desktop\C++ Portfolio\Learn OpenGL\OpenGL_Lighting\Debug\OpenGL_Revisions.exe
+C:\Users\Sebastien\Desktop\C++ Portfolio\Learn OpenGL\OpenGL_Lighting\Debug\OpenGL_Revisions.pdb

@@ -1,0 +1,2 @@
+﻿  Application.cpp
+C:\Users\Sebastien\Desktop\OpenGL_Revisions\src\libs.h(2,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'glew.h' : No such file or directory
