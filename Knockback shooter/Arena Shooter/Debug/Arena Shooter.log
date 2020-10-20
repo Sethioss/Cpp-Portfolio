@@ -1,0 +1,32 @@
+﻿  Display.cpp
+D:\ArenaShooterv2\Arena Shooter\bullet.h(33,113): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+D:\ArenaShooterv2\Arena Shooter\Weapons.h(8,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+D:\ArenaShooterv2\Arena Shooter\bullet.h(10): message : voir la déclaration de 'Bullet'
+D:\ArenaShooterv2\Arena Shooter\Weapons.h(16,1): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+D:\ArenaShooterv2\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+D:\ArenaShooterv2\Arena Shooter\player.h(9,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+D:\ArenaShooterv2\Arena Shooter\Weapons.h(15): message : voir la déclaration de 'Weapon'
+D:\ArenaShooterv2\Arena Shooter\arena.h(10,14): warning C4099: 'Bullet' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+D:\ArenaShooterv2\Arena Shooter\Weapons.h(8): message : voir la déclaration de 'Bullet'
+D:\ArenaShooterv2\Arena Shooter\arena.h(12,14): warning C4099: 'Weapon' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+D:\ArenaShooterv2\Arena Shooter\player.h(9): message : voir la déclaration de 'Weapon'
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(44,47): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(76,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(88,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(131,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(151,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(157,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(184,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(185,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(186,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(213,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(213,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(236,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(236,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(265,17): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+D:\ArenaShooterv2\Arena Shooter\Display.cpp(270,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Arena Shooter.vcxproj -> D:\ArenaShooterv2\Debug\Arena Shooter.exe
