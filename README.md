@@ -4,7 +4,7 @@
 
 ## Grid movement Prototype
 
-A discontinued prototype which goal was to create a grid movement system with enemies to beat in order to progress in the game using the SFML library.
+A discontinued prototype using the SFML library, which goal was to create a grid movement system with enemies to beat in order to progress in the game. In this prototype, the player can move around the board and initiate a battle with the enemy.
 
 ### Controls
 
