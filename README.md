@@ -9,6 +9,7 @@ A discontinued prototype which goal was to create a grid movement system with en
 ### Controls
 
 **ZQSD** : Move around
+
 **Space (When in a fight)** : Attack the enemy (The fighting still has to be worked on and isn't in a working state right now)
 
 ![Board_Gameplay](https://github.com/Sethioss/Resources/blob/main/Board_Gameplay_1.gif)
@@ -22,29 +23,39 @@ An arena shooter game made with another student, Romain Habib. You have to survi
 ### Controls
 
 **ZQSD** : Move around
+
 **Shift** : Sprint
+
 **Mouse** : Aim
+
 **LMB** : Shoot
+
 **Tab** : Change Weapon
 
 ![Knockback Shooter_Gameplay](https://github.com/Sethioss/Resources/blob/main/Knockback_Shooter_Gameplay.gif)
 
 ### Weapons
+
 There are five different types of weapon, each with a different knockback :
 
 - The gun
+
 ![Knockback Shooter_Gun](https://github.com/Sethioss/Resources/blob/main/Knockback_Shooter_Gun.gif)
 
 - The machinegun
+
 ![Knockback Shooter_Machinegun](https://github.com/Sethioss/Resources/blob/main/Knockback_Shooter_MachineGun.gif)
 
 - The stungun
+
 ![Knockback Shooter Stungun](https://github.com/Sethioss/Resources/blob/main/Knockback_Shooter_StunGun.gif)
 
 - The shotgun
+
 ![Knockback Shooter Shotgun](https://github.com/Sethioss/Resources/blob/main/Knockback_Shooter_ShotGun.gif)
 
 - The flamethrower
+
 ![Knockback Shooter Flamethrower](https://github.com/Sethioss/Resources/blob/main/Knockback_Shooter_FlameThrower.gif)
 
 ------------------------------------------------------------------------
@@ -56,7 +67,9 @@ I've recently started learning how to use the OpenGL graphic specification thank
 ### Controls
 
 **ZQSD** : Move around
+
 **Mouse** : Look around
+
 **Scroll wheel** : Zoom in/out
 
 ### Getting started
