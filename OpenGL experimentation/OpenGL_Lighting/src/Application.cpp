@@ -174,8 +174,8 @@ int main()
 		lightColor.y = sin(glfwGetTime() * 0.7f);
 		lightColor.z = sin(glfwGetTime() * 1.3f);
 
-		glm::vec3 diffuseColor = lightColor * glm::vec3(0.5f); // decrease the influence
-		glm::vec3 ambientColor = diffuseColor * glm::vec3(0.2f); // low influence
+		glm::vec3 diffuseColor = lightColor; //* glm::vec3(0.5f); // decrease the influence
+		glm::vec3 ambientColor = diffuseColor; //* glm::vec3(0.2f); // low influence
 
 		program.ChangeUniformVec3("light.ambient", ambientColor);
 		program.ChangeUniformVec3("light.diffuse", diffuseColor);

@@ -28,8 +28,6 @@ Round StartRound(Round roundToBegin, float startTime)
 Round EndRound(Round roundToEnd, float newEndTime)
 {
 	roundToEnd.endTime = newEndTime;
-	std::cout << roundToEnd.endTime << std::endl;
-	std::cout << roundToEnd.difficulty << std::endl;
 
 	if (roundToEnd.endTime <= roundToEnd.targetDuration + roundToEnd.difficulty && roundToEnd.endTime >= roundToEnd.targetDuration - roundToEnd.difficulty)
 	//if (roundToEnd.endTime <= roundToEnd.targetDuration + roundToEnd.difficulty && roundToEnd.endTime >= roundToEnd.targetDuration - roundToEnd.difficulty)
