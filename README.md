@@ -74,7 +74,7 @@ I've recently started learning how to use the OpenGL graphic specification thank
 
 ### Getting started
 
-During this part, I learned the basic notions of render programming, such as the graphics pipeline, vertices, vertex buffers, shader programming, transformation matrices, UVs, texturing, cameras...
+During this part, I learned the basic notions of render programming, such as the graphics pipeline, vertices, vertex buffers, the basis of shader programming, transformation matrices, UVs, texturing, cameras...
 
 ![OpenGL_Getting_Started](https://github.com/Sethioss/Resources/blob/main/OpenGL_Getting_Started.gif)
 
