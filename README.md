@@ -10,7 +10,7 @@ A discontinued prototype which goal was to create a grid movement system with en
 
 **ZQSD** : Move around
 
-**Space (When in a fight)** : Attack the enemy (The fighting still has to be worked on and isn't in a working state right now)
+**Space (When in a fight)** : Attack the enemy (There are no winning or losing conditions for the fights as of now)
 
 ![Board_Gameplay](https://github.com/Sethioss/Resources/blob/main/Board_Gameplay_1.gif)
 
