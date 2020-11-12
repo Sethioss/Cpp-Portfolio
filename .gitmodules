@@ -1,3 +1,0 @@
-[submodule "TestSubModule"]
-	path = TestSubModule
-	url = https://github.com/Sethioss/TestSubModule.git
